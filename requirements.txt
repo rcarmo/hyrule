@@ -1,2 +1,3 @@
 Pygments>=2.0predev-20140930
-prompt_toolkit
+prompt_toolkit==0.15
+hy
